@@ -1,0 +1,5 @@
+.history/
+config
+crash.journal
+n8n*.log
+binaryData/
